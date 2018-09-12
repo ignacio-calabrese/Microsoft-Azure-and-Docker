@@ -1,8 +1,8 @@
 version: '2.1'
 
 services:
-  aplication hello:
-    image: aplication hello
+  application hello:
+    image: application hello
     build: .
     environment:
       NODE_ENV: production

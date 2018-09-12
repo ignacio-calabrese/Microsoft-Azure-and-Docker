@@ -1,7 +1,7 @@
 {
-  "name": "aplication-hello",
+  "name": "application-hello",
   "version": "1.0.0",
-  "description": "Aplication hello",
+  "description": "Application hello",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
